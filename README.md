@@ -8,4 +8,4 @@ https://drive.google.com/file/d/1wJXLioB3RvGXgxo6cRXXHTHV0LEsZKE4/view?usp=drive
 https://drive.google.com/file/d/1fjdlnKB2fOzV8okLM48go2H7SqbP6QBR/view?usp=drive_link - econ_embeds.npy
 https://drive.google.com/file/d/1kyRWw5YrwdUQMwTIdzNk-KgVam9qfikC/view?usp=drive_link - bible+embeds.npy
 
-
+https://drive.google.com/file/d/1FnaRHxCqJ_qUQn18QYulV-_Kq5crKOUM/view?usp=drive_link - with_SW_word_clf.pth
