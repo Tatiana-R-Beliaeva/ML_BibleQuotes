@@ -41,7 +41,7 @@ Models:
     abstract = "Despite recent advances in natural language processing, many statistical models for processing text perform extremely poorly under domain shift. Processing biomedical and clinical text is a critically important application area of natural language processing, for which there are few robust, practical, publicly available models. This paper describes scispaCy, a new Python library and models for practical biomedical/scientific text processing, which heavily leverages the spaCy library. We detail the performance of two packages of models released in scispaCy and demonstrate their robustness on several tasks and datasets. Models and code are available at https://allenai.github.io/scispacy/.",
 }
 
-2. DistilBertForSequenceClassification
+2. DistilBertForSequenceClassification: https://github.com/huggingface/transformers?files=1
 3. DistilBERT for MultiLabel Text Classification: https://colab.research.google.com/github/DhavalTaunk08/Transformers_scripts/blob/master/Transformers_multilabel_distilbert.ipynb
 4. SentenceTransformer("distiluse-base-multilingual-cased-v2"): https://sbert.net/docs/pretrained_models.html.
    
