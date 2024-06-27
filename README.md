@@ -44,4 +44,5 @@ Models:
 2. DistilBertForSequenceClassification: https://github.com/huggingface/transformers?files=1
 3. DistilBERT for MultiLabel Text Classification: https://colab.research.google.com/github/DhavalTaunk08/Transformers_scripts/blob/master/Transformers_multilabel_distilbert.ipynb
 4. SentenceTransformer("distiluse-base-multilingual-cased-v2"): https://sbert.net/docs/pretrained_models.html.
+5. class accelerate.Accelerator: https://github.com/huggingface/accelerate/blob/v0.31.0/src/accelerate/accelerator.py#L161
    
