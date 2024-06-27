@@ -5,4 +5,7 @@ https://docs.google.com/presentation/d/1vA5Hn9FVDL_7mSOnBTIoRzf-LO4d5IP93HTcKVE8
 https://drive.google.com/file/d/1iug7LGdzxhVTRk_Shdu4clHrzfWVfHMs/view?usp=drive_link - sentence_bert.pth
 https://drive.google.com/file/d/1wJXLioB3RvGXgxo6cRXXHTHV0LEsZKE4/view?usp=drive_link - sentence_bert_NO_SW.pth
 
+https://drive.google.com/file/d/1fjdlnKB2fOzV8okLM48go2H7SqbP6QBR/view?usp=drive_link - econ_embeds.npy
+https://drive.google.com/file/d/1kyRWw5YrwdUQMwTIdzNk-KgVam9qfikC/view?usp=drive_link - bible+embeds.npy
+
 
